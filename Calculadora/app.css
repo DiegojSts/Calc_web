@@ -1,0 +1,65 @@
+.inptDisplay {
+    width: 209px;
+    height: 40px;
+    margin-left: 9px;
+    background-color: powderblue;
+    border-style: solid;
+    font-size: larger;
+}
+
+.container{
+    margin-top: 175px;
+    margin-left: 535px;
+    width: 17.8%;
+    padding: 16px;
+    border: solid;
+    background-color: white;
+    height: 342px;
+    border-color: darkgray;
+}
+
+button{
+    margin: 4px;
+    height: 38px;
+    width: 45px;
+    background-color: darkgray;
+    border-radius: 25%;
+}
+
+table{
+    width: 15%;
+   
+}
+
+.teste{
+    margin: 4px !important;
+    width: 102px;
+    
+}
+
+.btnOpsCollor{
+    background-color: orange;
+}
+
+body{
+/*
+    background-image: url("https://th.bing.com/th/id/OIP.Ep57q-k5SRcSlEGsnz-OqwHaFj?pid=Api&rs=1");
+    background-repeat: no-repeat;
+    background-size: 130%;
+    */
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,41,9,0.5606617647058824) 35%, rgba(0,212,255,1) 100%);
+}
+
+
+h2{
+    margin-top: 21px;
+    margin-left: 62px;
+    position: absolute;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+    
+
+}
+
+
