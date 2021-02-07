@@ -11,10 +11,12 @@ Calculadora web é um mini projeto com o intuito de solidificar alguns conhecime
 ## Tecnologias
 
 <div width="62px" margin="5px">
- <!--JavaScript--> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
- <!--CSS--> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
- <!--HMTL--> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
- </div>
+
+<!--HMTL--> <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<!--CSS--> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3"/>
+<!--JavaScript--> <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript"/>
+
+</div>
  
  <hr>
 <p align="center"><b> Autor </b></p>
